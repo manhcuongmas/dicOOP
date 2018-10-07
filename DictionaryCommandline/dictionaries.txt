@@ -1,0 +1,4 @@
+ask	hoi
+ass	mong
+array	mang
+artist	nghesi
