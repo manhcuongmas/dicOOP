@@ -7,6 +7,7 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -16,7 +17,7 @@ public class DictionaryManagement {
 	public void insertFromCommandline() {
 		
 		
-		System.out.print("Enter your num: ");
+		System.out.print("Nhap so luong tu: ");
 		
 		int num = sc.nextInt(); // nhap so luong tu muon nhap
 		sc.nextLine();
@@ -133,29 +134,22 @@ public class DictionaryManagement {
 		
 		
 		
-		public void dictionaryExportToFile() {
-			BufferedWriter bw = null;
-			try {
-				bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("dictionaries.txt") ));
-				for(Word ele : Dictionary.dsWord) {
-					
-					bw.write(ele.getWord_target() + "\t" + ele.getWord_explain());
-					bw.close();
-					
-				}
-			
-			
-			} catch (FileNotFoundException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-			
-			
-			
-		}
+		 public void dictionaryExportToFile() {
+		        BufferedWriter bw = null;
+		        try {
+		            bw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("dictionaries.txt"), "UTF-8"));
+		            for (Word ele : Dictionary.dsWord) {
+		                bw.write(ele.getWord_target() + "\t" + ele.getWord_explain());
+		                bw.newLine();
+		            }
+		            bw.close();
+		        } catch (FileNotFoundException | UnsupportedEncodingException ex) {
+		            System.out.println("Error " + ex);
+		        } catch (IOException ex) {
+		            System.out.println("Error " + ex);
+		        }
+		    }
+
 		
 		
 

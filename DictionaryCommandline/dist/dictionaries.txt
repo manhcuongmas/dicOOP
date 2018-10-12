@@ -1,5 +1,5 @@
 ﻿history	Lich su
-way	duong
+way	đường
 art	Nghe thuat
 world	The gioi
 information	Thong tin
@@ -8,14 +8,14 @@ two	Hai
 family	Gia dinh
 government	Chinh phu
 health	Suc khoe
-system	He thong
+system	Hệ thống
 computer	May tinh
 meat	Thit
 year	Nam
 thanks	Loi cam on
 music	Am nhac
 person	Nguoi
-reading	Cach doc
+reading	Cach đoc
 method	Phuong phap
 data	Du lieu
 food	Thuc ăn
@@ -24,7 +24,7 @@ theory	Ly thuyet
 law	Phap luat
 bird	Chim
 literature	Van chuong
-problem	Van de
+problem	Van đe
 software	Phan mem
 control	Kiem soat
 people	nguoi
