@@ -1,0 +1,4 @@
+hello	xinchao
+cheap	re
+language	ngon ngu
+math	toan
