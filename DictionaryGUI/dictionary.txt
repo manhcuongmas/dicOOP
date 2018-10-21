@@ -1,0 +1,10 @@
+﻿football	bóng đá	/'fʊtbɔ:l/	We play football	Chúng tôi chơi đá bóng	danh từ
+hello	xin chào	/hə'ləʊ/	Hello guys	Xin chào tất cả các bạn	danh từ
+device	thiết bị	/di'vais/	a device for measuring pressure	một thiết bị đo áp suất	danh từ
+aerobics	thiếu không khí hoặc thể dục nhịp điệu	/eə'rəʊbiks/	In this way, the plant can resume aerobic metabolic activity required for long-term survival.	Bằng cách này cây cối có thể tiếp tục hoạt động trao đổi chất hiếu khí cần thiết cho sự tồn tại lâu dài	tính từ
+able	có thể	/'eibl/	the child is not yet able to write.	Em bé chưa có thể viết được	tính từ
+animal	động vật	/'æniməl/	animal desires	những ham muốn xác thịt	danh từ
+newsreader	người phát thanh viên	/ˈnuːzˌriːdɚ/	newsreader works hard.	Người viết tin làm việc chăm chỉ.	danh từ
+asia	châu á	[ˈeɪʃə]	We are asia	Chúng tôi là người châu Á	danh từ
+badminton	cầu lông	/'bædmintən/	Jude was a brilliant badminton player so she chose badminton, eventually progressing to play at county level	Jude là một vận động viên cầu lông xuất sắc vì vậy cô đã chọn cầu lông, cuối cùng tiến tới chơi ở cấp quận	danh từ 
+landmark	mốc bờ, mốc ranh giới	/ˈlan(d)mɑːk/	the Empire State Building is a famous landmark on the New York skyline	Tòa nhà Empire State là một cái mốc nổi bậc trên đường chân trời	danh từ
